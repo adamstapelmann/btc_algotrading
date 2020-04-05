@@ -1,0 +1,1 @@
+"C:\Users\afsta\AppData\Local\Programs\Python\Python37-32\python.exe" "C:\Users\afsta\Repo\btc_algotrading\venv\algotrade.py"
