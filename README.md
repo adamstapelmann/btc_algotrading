@@ -2,7 +2,7 @@
 Algotrading project for Bitcoin. This project seeks to analyze bitcoin metrics and make buy/sell trades in order to make profit off of the long term. Currently, we look for a switch in trend between the current price of bitcoin and the 5 day moving average.
 
 ## Set up
-There is a lot of setup up for this, so bear with me. By the end of this, however, you should have all the necessary tools to mimic this stragey, and it shouldn't be too difficult to tweak the algorithm to have a different trading strategy.
+There is a lot of setup up for this, so bear with me. By the end of this, however, you should have all the necessary tools to mimic this strategy, and it shouldn't be too difficult to tweak the algorithm to have a different trading strategy.
 
 ### Get historical data
 To get historical data, we need to scrape CoinMarketCap's website. They have an API to get it, but it costs money.
